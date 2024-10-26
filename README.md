@@ -56,10 +56,10 @@ At any time users can add additional tasks to their schedule. Users can add new 
 
 StudBud offers two display modes: **Calendar View** and **List View**. The Calendar View defaults to showing tasks, class times, and commute schedules. 
 
-**Calendar View**
+**Calendar View** \
 <img src="calview.png" alt="Calender View"/>
 
-**List View**
+**List View** \
 <img src="listview.png" alt="List View"/>
 
 StudBud then allocates tasks within the calendar based on user preferences, balancing all specified requirements. Users can also edit their settings via a dedicated button.
